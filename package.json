@@ -1,0 +1,16 @@
+{
+  "name": "react-image-360",
+  "version": "1.0.0",
+  "description": "Show image 360",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "An1310",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "type": "module",
+}
