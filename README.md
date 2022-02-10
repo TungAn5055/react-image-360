@@ -3,6 +3,7 @@ React Show Image 360
 
 # How to use?
 
+```sh
 import ThreeSixty from 'react-image-360';
 
  <ThreeSixty
@@ -14,3 +15,5 @@ import ThreeSixty from 'react-image-360';
 
 // countImage : count number image
 // listImage360: array . Ex: ['link_img_1', 'link_img_2']
+
+```
